@@ -1,0 +1,83 @@
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.pdb
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\App.g.cs
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.cache
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.lref
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.baml
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.g.resources
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.exe
+c:\users\asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.pdb
+C:\Users\Asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\CreateNewPassenger.g.cs
+C:\Users\Asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\CreateNewPassenger.baml
+C:\Users\Asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\TypeOfMotion.g.cs
+C:\Users\Asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\TypeOfMotion.baml
+C:\Users\Asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\ChooseStation.g.cs
+C:\Users\Asus\documents\visual studio 2015\Projects\WpfApplication7\WpfApplication7\obj\Debug\ChooseStation.baml
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe.config
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.pdb
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\ChooseStation.g.cs
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\CreateNewPassenger.g.cs
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\TypeOfMotion.g.cs
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.cache
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.lref
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\ChooseStation.baml
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\CreateNewPassenger.baml
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\TypeOfMotion.baml
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.g.resources
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.Properties.Resources.resources
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.exe
+C:\Users\Asus\Desktop\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.pdb
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe.config
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.exe
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.pdb
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.pdb
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\ChooseStation.g.cs
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\CreateNewPassenger.g.cs
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\TypeOfMotion.g.cs
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.cache
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.lref
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\ChooseStation.baml
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\CreateNewPassenger.baml
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\TypeOfMotion.baml
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.g.resources
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.Properties.Resources.resources
+C:\Users\Asus\Desktop\Новая папка (4)\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe.config
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.exe
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.pdb
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.pdb
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\ChooseStation.g.cs
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\CreateNewPassenger.g.cs
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\TypeOfMotion.g.cs
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\App.g.cs
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.cache
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7_MarkupCompile.lref
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\ChooseStation.baml
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\CreateNewPassenger.baml
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\MainWindow.baml
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\TypeOfMotion.baml
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.g.resources
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.Properties.Resources.resources
+C:\Users\Asus\Desktop\Вишка\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Вишка\Модуль_3-4\WpfApplication7\WpfApplication7\bin\Debug\WpfApplication7.exe.config
+C:\Users\Asus\Desktop\Вишка\Модуль_3-4\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.exe
+C:\Users\Asus\Desktop\Вишка\Модуль_3-4\WpfApplication7\WpfApplication7\obj\Debug\WpfApplication7.pdb
